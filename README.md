@@ -1,6 +1,6 @@
 # Kallki - E-learning Platform
 
-Welcome to Kallki, an E-learning platform designed to enhance student skills through quizzes, roadmaps, and additional college-centric features. Visit [Kallki](https://kallki.netlify.app/) to explore and engage with our educational resources.
+Welcome to Kallki, an E-learning platform designed to enhance student skills through quizzes, roadmaps, and additional college-centric features. Visit [Kallki](https://kallki-web.netlify.app/) to explore and engage with our educational resources.
 
 ## Repository Structure
 
@@ -45,7 +45,7 @@ Kallki leverages the following technologies:
 
 ## Usage
 
-Visit [Kallki](https://kallki.netlify.app/) to access the educational content and features provided by the platform. Explore quizzes, learning roadmaps, and other resources to enhance your skills.
+Visit [Kallki](https://kallki-web.netlify.app/) to access the educational content and features provided by the platform. Explore quizzes, learning roadmaps, and other resources to enhance your skills.
 
 ## Contributing
 
@@ -56,4 +56,4 @@ If you'd like to contribute to Kallki, feel free to fork the repository and subm
 To clone this repository to your local machine, use the following command:
 
 ```bash
-git clone https://github.com/Gopinath987/Kallki.git
+git clone https://github.com/puskarmishra24/kallki-Web.git
